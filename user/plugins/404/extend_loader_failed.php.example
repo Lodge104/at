@@ -1,0 +1,8 @@
+<?php
+/*
+        Copy this file to the user directory as extend_loader_failed.php and add the lines that add actions to 'loader_failed' from other plugins to avoid getting 404 errors instead of those plugins function.
+*/
+
+// yourls_add_action( 'loader_failed', 'drg_yourls_qrcode' ); // SmartQR
+// yourls_add_action( 'loader_failed', 'drg_preview_loader_failed' ); // SmartPreview
+
