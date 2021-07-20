@@ -1,5 +1,1 @@
 user/config.php
-user/plugins/oidc/vendor/jumbojett/openid-connect-php/
-user/plugins/oidc/vendor/paragonie/random_compat/
-user/plugins/oidc/vendor/phpseclib/phpseclib/
-includes/functions-html.php
